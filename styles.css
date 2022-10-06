@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:cornflowerblue;
+    text-size:50px;
+    color:brown    }
+
+footer {
+    background-color:plum
+}
+
+footer p{
+    border:10px solid palevioletred;
+}
+
+nav{
+    margin:25px;
+    text-align: center;
+}
+
+.products{
+    background-color: white;
+    border:1px solid blue;
+    text-decoration:none;
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    color:blue;
+}
+
+nav a{
+    background-color: navy;
+    border:1px solid blue;
+    text-decoration:none;
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    color: white;
+}
+
+h1{
+    color: blueviolet;
+    text-align:center;
+}
+
+header {
+    background-color:cornflowerblue;
+    padding:10px;
+    
+    }
+
+    .prod{
+        background-color:aquamarine;
+    }
